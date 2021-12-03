@@ -1,7 +1,5 @@
 # Animated Tesla App Conect using Flutter
 
-## [Watch it on YouTube](https://youtu.be/P629-Z3py1Y)
-
 **Packages we are using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
